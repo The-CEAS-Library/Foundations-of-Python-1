@@ -17,4 +17,4 @@ Please click **'Open in Colab'** button below to launch the notebook in Google C
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Foundations-of-Python-1.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Foundations-of-Python-1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-CEAS-Library/Foundations-of-Python-1/blob/med_focus/Foundations_of_Python%201.ipynb)
